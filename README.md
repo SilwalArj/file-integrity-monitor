@@ -215,21 +215,6 @@ while chunk := file.read(4096):
 
 This approach is useful when working with larger files.
 
-## What I Learned
-
-This project helped me practice:
-
-* File handling in Python
-* SHA-256 hashing
-* Cryptographic integrity concepts
-* Reading files in chunks
-* Directory traversal
-* JSON data storage
-* Comparing dictionaries and file states
-* Exception handling
-* Building a command-line security tool
-* Basic defensive cybersecurity concepts
-
 ## Why File Integrity Monitoring Matters
 
 File integrity monitoring can help identify unexpected changes to important files.
@@ -277,7 +262,3 @@ Possible future versions could include:
 This project is designed for **defensive cybersecurity learning and authorized systems only**.
 
 It does not attempt to access, modify, or compromise other systems.
-
-## License
-
-This project is intended for learning and portfolio purposes.
